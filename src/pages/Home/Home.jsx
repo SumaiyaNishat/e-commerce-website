@@ -19,7 +19,7 @@ const Home = () => {
                 <Delivery></Delivery>
             </div>
              {/* delivery componet*/}
-             <div className="brand">
+             <div className="brand flex items-center h-[171px] justify-center w-full mt-8 mb-8">
                 <Brand></Brand>
 
              </div>
