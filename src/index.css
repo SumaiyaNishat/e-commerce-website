@@ -94,3 +94,10 @@
 .slider_container>.slick-slider>.slick-dots>li.slick-active button:before {
     color: #007580 !important;
 }
+
+
+.delivery_component {
+    margin-top: -4rem;
+    position: relative;
+    z-index: 5;
+}
